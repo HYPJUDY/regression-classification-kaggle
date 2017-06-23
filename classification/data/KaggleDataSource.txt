@@ -1,0 +1,2 @@
+Kaggle Data Source:
+https://inclass.kaggle.com/c/large-scale-classification-sysu-2017/data

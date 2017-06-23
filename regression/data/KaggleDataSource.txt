@@ -1,0 +1,2 @@
+Kaggle data source:
+https://inclass.kaggle.com/c/linear-regression-sysu-2017/data
