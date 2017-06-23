@@ -21,8 +21,8 @@ Kaggle link: [Linear Regression-SYSU-2017](https://inclass.kaggle.com/c/linear-r
 3. KNN by scikit-learn
 
 ### Result
-![](https://hypjudy.github.ioimages/reg-classification-kaggle/regression-score.gif)
-![](https://hypjudy.github.ioimages/reg-classification-kaggle/regression-time.gif)
+![](results/regression-score.gif)
+![](results/regression-time.gif)
 
 ## Classification
 ### Data
@@ -43,8 +43,9 @@ Kaggle link: [Linear Regression-SYSU-2017](https://inclass.kaggle.com/c/linear-r
 2. Gradient Descent Boosting Tree by XGBoost
 
 ### Result
-![](https://hypjudy.github.ioimages/reg-classification-kaggle/logistic-regression-gradient-ascent-acc.gif)
-![](https://hypjudy.github.ioimages/reg-classification-kaggle/multiprocess-parallel-time.gif)
+![](results/logistic-regression-gradient-ascent-acc.gif)
+![](results/logistic-regression-gradient-ascent-time.gif)
+![](results/multiprocess-parallel-time.gif)
 
 ## Details
 Blog in chinese: [[数据挖掘] 回归和分类Kaggle实战](https://hypjudy.github.io/2017/06/23/regression-classification-kaggle/)
