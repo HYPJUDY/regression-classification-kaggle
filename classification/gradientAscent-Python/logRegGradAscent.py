@@ -17,9 +17,9 @@ from multiprocessing import Process, Array, Lock
 
 
 ######## --------------------- Define Parameters ------------------ ########
-TRAINPATH = '/home/data/jiangzh/xgboost/ML_HW2/data/train_standard10_9.txt'
-VALPATH = '/home/data/jiangzh/xgboost/ML_HW2/data/val_standard10_1.txt'
-TESTPATH = '/home/data/jiangzh/xgboost/ML_HW2/data/test_data_standard.txt'
+TRAINPATH = '/home/data/xgboost/ML_HW2/data/train_standard10_9.txt'
+VALPATH = '/home/data/xgboost/ML_HW2/data/val_standard10_1.txt'
+TESTPATH = '/home/data/xgboost/ML_HW2/data/test_data_standard.txt'
 
 N_ITER = 1
 ALPHA = 0.1
